@@ -3,7 +3,7 @@ A list of machine and deep learning publications in interventional radiotherapy 
 
 ## General
 - Artificial intelligence (AI) and interventional radiotherapy (brachytherapy): state of art and future perspectives <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7701925/>
-- A Review of the Application of Deep Learning in Brachytherapy </media/ad-home/fechter/Dokumente/Dissemination/Degro/2021/A_Review_of_the_Application_of_Deep_Learning_in_Br>
+- A Review of the Application of Deep Learning in Brachytherapy <https://www.scirp.org/journal/paperinformation.aspx?paperid=101800>
 
 ## Segmentation
 ### MRI
