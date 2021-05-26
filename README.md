@@ -12,20 +12,20 @@ A list of machine and deep learning publications in interventional radiotherapy 
 - Artificial intelligence in multiparametric prostate cancer imaging with focus on deep-learning methods <https://www.sciencedirect.com/science/article/abs/pii/S0169260719310442?via%3Dihub>
 - Automatic prostate and prostate zones segmentation of magnetic resonance images using DenseNet-like U-net <https://www.nature.com/articles/s41598-020-71080-0>
 - Classification of Cancer at Prostate MRI: Deep Learning versus Clinical PI-RADS Assessment <https://pubs.rsna.org/doi/10.1148/radiol.2019190938>
-- MRI and CT bladder segmentation from classical to deep learning based approaches: Current limitations and lessons <https://www.sciencedirect.com/science/article/abs/pii/S0010482521002663> <https://arxiv.org/pdf/2101.06498.pdf>
+- MRI and CT bladder segmentation from classical to deep learning based approaches: Current limitations and lessons <https://www.sciencedirect.com/science/article/abs/pii/S0010482521002663>; <https://arxiv.org/pdf/2101.06498.pdf>
 - Clinical implementation of MRI-based organs-at-risk auto-segmentation with convolutional networks for prostate radiotherapy <https://ro-journal.biomedcentral.com/articles/10.1186/s13014-020-01528-0>
 - Bladder segmentation based on deep learning approaches:current limitations and lessons: <https://arxiv.org/pdf/2101.06498.pdf>
 ### CT
 - Bladder, Rectum, Samenblase, Prostata: Joint Registration and Segmentation via Multi-Task Learning for Adaptive Radiotherapy of Prostate Cancer <https://arxiv.org/pdf/2105.01844.pdf>
 - Deep learning-based auto-segmentation of organs at risk in high-dose rate brachytherapy of cervical cancer <https://www.sciencedirect.com/science/article/abs/pii/S0167814021061703>
 - Pelvic multi-organ segmentation on cone-beam CT for prostate adaptive radiotherapy <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7429321/>
-- MetricUNet: Synergistic image- and voxel-level learning for precise prostate segmentation via online sampling <https://www.sciencedirect.com/science/article/abs/pii/S1361841521000852?dgcid=raven_sd_aip_email> <https://arxiv.org/abs/2005.07462>
-- ARPM‐net: A novel CNN‐based adversarial method with Markov Random Field enhancement for prostate and organs at risk segmentation in pelvic CT images <https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14580> <https://arxiv.org/abs/2008.04488>
+- MetricUNet: Synergistic image- and voxel-level learning for precise prostate segmentation via online sampling [<https://www.sciencedirect.com/science/article/abs/pii/S1361841521000852?dgcid=raven_sd_aip_email>]; <https://arxiv.org/abs/2005.07462>
+- ARPM‐net: A novel CNN‐based adversarial method with Markov Random Field enhancement for prostate and organs at risk segmentation in pelvic CT images <https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14580>; <https://arxiv.org/abs/2008.04488>
 - Automatic Segmentation of the Prostate on CT Images Using Deep Neural Networks (DNN) <https://www.sciencedirect.com/science/article/pii/S0360301619303761>
 - CT prostate segmentation based on synthetic MRI-aided deep attention fully convolution network <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7764436/>
 - Automatic segmentation and applicator reconstruction forCT-based brachytherapy of cervical cancer using 3Dconvolutional neural networks <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7592978/pdf/ACM2-21-158.pdf>
 ### TRUS
-- Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound <https://ieeexplore.ieee.org/document/8698868> <https://github.com/wulalago/DAF3D>
+- Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound <https://ieeexplore.ieee.org/document/8698868>; <https://github.com/wulalago/DAF3D>
 - A deep learning method for real-time intraoperative US image segmentation in prostate brachytherapy <https://link.springer.com/article/10.1007/s11548-020-02231-x?utm_source=toc&utm_medium=email&utm_campaign=toc_11548_15_9&utm_content=etoc_springer_20200812>
 - Automatic prostate segmentation using deep learning on clinically diverse 3D transrectal ultrasound images <https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14134>
 - Accurate and robust deep learning-based segmentation of the prostate clinical target volume in ultrasound images <https://www.sciencedirect.com/science/article/abs/pii/S1361841519300623>
