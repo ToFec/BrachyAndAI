@@ -16,6 +16,7 @@ A list of machine and deep learning publications in interventional radiotherapy 
 - Clinical implementation of MRI-based organs-at-risk auto-segmentation with convolutional networks for prostate radiotherapy [<https://ro-journal.biomedcentral.com/articles/10.1186/s13014-020-01528-0>]
 - Bladder segmentation based on deep learning approaches:current limitations and lessons: [<https://arxiv.org/pdf/2101.06498.pdf>]
 - A Deep Learning-Based Approach for Accurate Segmentation of Bladder Wall using MR Images [<https://ieeexplore.ieee.org/document/9010233>]
+- Machine Segmentation of Pelvic Anatomy in MRI-Assisted Radiosurgery (MARS) for Prostate Cancer Brachytherapy[<https://www.sciencedirect.com/science/article/abs/pii/S0360301620313961?via%3Dihub>]
 ### CT
 - Bladder, Rectum, Samenblase, Prostata: Joint Registration and Segmentation via Multi-Task Learning for Adaptive Radiotherapy of Prostate Cancer [<https://arxiv.org/pdf/2105.01844.pdf>]
 - Deep learning-based auto-segmentation of organs at risk in high-dose rate brachytherapy of cervical cancer [<https://www.sciencedirect.com/science/article/abs/pii/S0167814021061703>]
