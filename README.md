@@ -45,6 +45,7 @@ A list of machine and deep learning publications in interventional radiotherapy 
 - Automated Needle Digitization in Ultrasound-based Prostate High Dose-rate Brachytherapy Using a Deep Learning Algorithm [<https://www.redjournal.org/article/S0360-3016(20)32276-8/fulltext>]
 
 ## Registration
+- A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy [<https://2020.midl.io/papers/beljaards20.html>]
 - LABEL-DRIVEN WEAKLY-SUPERVISED LEARNING FOR MULTIMODAL DEFORMABLE IMAGE REGISTRATION [<https://arxiv.org/ftp/arxiv/papers/1711/1711.01666.pdf>] [<https://ieeexplore.ieee.org/document/8363756>]
 - Learning deep similarity metric for 3D MR–TRUS image registration [<https://link.springer.com/article/10.1007/s11548-018-1875-7>]
 - Label-driven magnetic resonance imaging (MRI)-transrectal ultrasound (TRUS) registration using weakly supervised learning for MRI-guided prostate radiotherapy [<https://iopscience.iop.org/article/10.1088/1361-6560/ab8cd6>]
