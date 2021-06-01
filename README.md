@@ -64,6 +64,7 @@ A list of machine and deep learning publications in interventional radiotherapy 
 - Development of a Machine Learning Model for Optimal Applicator Selection in High-Dose-Rate Cervical Brachytherapy [<https://www.frontiersin.org/articles/10.3389/fonc.2021.611437/full>]
 - Prostate Dose Prediction in HDR Brachytherapy using Unsupervised Multi-Atlas Fusion [<https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/115962C/Prostate-dose-prediction-in-HDR-Brachytherapy-using-unsupervised-multi-atlas/10.1117/12.2580979.full?SSO=1>]
 - RapidBrachyDL: Rapid Radiation Dose Calculations in Brachytherapy Via Deep Learning [<https://www.sciencedirect.com/science/article/abs/pii/S0360301620311226>]
+- Intraoperative optimization of seed implantation plan in breast brachytherapy [https://link.springer.com/article/10.1007/s11548-021-02350-z?utm_source=toc&utm_medium=email&utm_campaign=toc_11548_16_6&utm_content=etoc_springer_20210601]
 
 ## Outcome Prediction
 - Classification of Cancer at Prostate MRI: Deep Learning versus Clinical PI-RADS Assessment [<https://pubs.rsna.org/doi/10.1148/radiol.2019190938?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&>] [<https://github.com/MIC-DKFZ/PROUNET>]
