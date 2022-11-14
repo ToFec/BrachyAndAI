@@ -1,7 +1,7 @@
 # BrachyAndAI
 
 ## Update
-A more recent and comprehensive summary of deep learning in interventional radiotherapy can be found in our article on Arxiv [https://arxiv.org/abs/2205.07516]. The article covers all the articles listed below and more publications (till April 2022) in addition.
+A more recent and comprehensive summary of deep learning in interventional radiotherapy can be found in our article [The use of deep learning in interventional radiotherapy (brachytherapy): A review with a focus on open source and open data](https://www.sciencedirect.com/science/article/pii/S093938892200099X) or in the preprint version on Arxiv [https://arxiv.org/abs/2205.07516]. The article includes all the articles listed below, as well as a number of recent articles.
 
 ---
 
